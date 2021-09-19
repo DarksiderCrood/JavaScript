@@ -1,3 +1,5 @@
+Please refer W3School for more info..
+
 JS Tutorial
 JS HOME
 JS Introduction
